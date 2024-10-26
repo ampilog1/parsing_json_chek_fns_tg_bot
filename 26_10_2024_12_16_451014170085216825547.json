@@ -1,0 +1,7 @@
+[{"_id":"671cb34a025375dfff7c4e08","createdAt":"2024-10-26T09:15:54+00:00","ticket":
+{"document":
+{"receipt":
+{"cashTotalSum":0,"code":3,"creditSum":0,"dateTime":"2024-10-26T12:15:00","ecashTotalSum":18000,"fiscalDocumentFormatVer":4,"fiscalDocumentNumber":15976,"fiscalDriveNumber":"7380440800992800","fiscalSign":161421875,
+"items":[{"name":"Гречишный чай 0,3","nds":6,"paymentType":4,"price":18000,"productType":1,"quantity":1,"sum":18000}]
+,"kktRegId":"0005027761021217    ","ndsNo":18000,"operationType":1,"operator":"Горбова Валерия","prepaidSum":0,"provisionSum":0,"requestNumber":45,"retailPlace":"Кофейня","retailPlaceAddress":"143002,М.О.г.Одинцово,ул.Маршала Неделина,д.6А","shiftNumber":57,"taxationType":32,"appliedTaxationType":32,"totalSum":18000,"user":"ЦВЕТКОВ АЛЕКСАНДР ВАЛЕРЬЕВИЧ","userInn":"772335560450"}
+}}}]
